@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'playground',
+    'animal',
+    '아이브',
 ]
 
 MIDDLEWARE = [
